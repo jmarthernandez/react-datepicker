@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "react/jsx-filename-extension": "off",
+    "react/no-unused-prop-types": [2, { "skipShapeProps": true }],
+    "import/no-extraneous-dependencies": [error, { devDependencies: true }]
+  }
+}

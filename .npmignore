@@ -1,0 +1,8 @@
+src
+tests
+.babelrc
+.editorconfig
+.eslintrc
+example.build.js
+index.html
+webpack.config.js
